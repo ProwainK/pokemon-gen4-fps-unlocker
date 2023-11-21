@@ -4,9 +4,10 @@ Unlock / Lock the framerate in the gen 4 pokemon games!
 
 ----
 
-## HG/SS offsets
+## Pokemon HeartGold / SoulSilver offsets
 
 JP - 0x4E0C
+
 US - 0x4E28
 
 ----
